@@ -1,0 +1,12 @@
+# Archivos de usuario y caché
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilacion
+bin/
+obj/
+
+# Secretos
+appsettings.Development.json
