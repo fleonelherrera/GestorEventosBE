@@ -16,3 +16,6 @@ API robusta y escalable que sirve de motor para plataforma de Gestión de Evento
 - **CRUD de Eventos:** Los usuarios pueden crear, editar, listar y eliminar sus propios eventos.
 - **Inscripciones:** Lógica de negocio para que los usuarios se inscriban a eventos y consulten sus "tickets" adquiridos.
 - **Validación de Propiedad:** Seguridad a nivel de controlador para asegurar que solo el creador de un evento pueda modificarlo o eliminarlo.
+
+## Repositorio FrontEnd
+- https://github.com/fleonelherrera/GestorEventosFE
